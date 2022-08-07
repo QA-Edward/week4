@@ -114,7 +114,8 @@ img {
       .header_navigation_bar ul li {
         max-width: 50%; }
       .header_navigation_bar ul a {
-        padding: 12px 62px; } }
+        padding: 12px;
+        text-align: center; } }
 
 .footer_page {
   background-color: #AA0601; }
